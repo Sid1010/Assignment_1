@@ -16,6 +16,6 @@ const element = React.createElement("div", {
   id: "git_div"
 }, React.createElement("a", {
   id: "git_ID",
-  href: "https://github.com/deshpandeshubham"
+  href: "https://github.com/Sid1010/"
 }, "VIEW MY GITHUB")));
 ReactDOM.render(element, document.getElementById('sectionA'));
