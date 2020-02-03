@@ -1,0 +1,29 @@
+h1 {
+    color: #707070;
+    font-style: italic;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#main_div {
+    border: 4px double #696969;
+    margin: 1rem auto;
+    padding: 15px 10px;
+    max-width: 600px;
+}
+
+#git_ID {
+    background-color: #696969;
+    color: white;
+    padding: 8px 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    text-decoration: none;
+    cursor: pointer;
+}
