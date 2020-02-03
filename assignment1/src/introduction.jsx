@@ -15,7 +15,7 @@ const element = (
             This pretty much sums up about me. <br/><br/>
         </div>
         <div id="git_div">
-            <a id="git_ID" href="https://github.com/deshpandeshubham">VIEW MY GITHUB</a>
+            <a id="git_ID" href="https://github.com/Sid1010/">VIEW MY GITHUB</a>
         </div>
     </div>
 )
